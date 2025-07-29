@@ -1,1 +1,7 @@
-<img width="600" height="396" alt="Captura de tela 2025-07-25 131135" src="https://github.com/user-attachments/assets/b482e817-2b21-4710-8823-dd30aad2d344" />
+📊 **Simulador de ROI (Retorno Sobre Investimento)**
+
+Este script em Python simula os lucros e prejuízos diários ao longo de 31 dias (correspondente ao mês), aplicando variações aleatórias de retorno sobre um valor inicial fornecido pelo usuário (WALLET). Ele calcula o saldo final após o mês e exibe estatísticas básicas como ganhos, perdas e percentual de rendimento ou prejuízo.
+
+
+
+<img width="879" height="359" alt="Captura de tela 2025-07-29 125751" src="https://github.com/user-attachments/assets/32defe0e-d8a4-4776-b331-1798b7eb9810" />
