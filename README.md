@@ -1,4 +1,4 @@
-📊 **Simulador de ROI (Retorno Sobre Investimento)**
+📊 **Retorno Sobre Investimento BTC/USD**
 
 Este script em Python simula os lucros e prejuízos diários ao longo de 31 dias (correspondente ao mês), aplicando variações aleatórias de retorno sobre um valor inicial fornecido pelo usuário (WALLET). Ele calcula o saldo final após o mês e exibe estatísticas básicas como ganhos, perdas e percentual de rendimento ou prejuízo.
 
